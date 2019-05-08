@@ -1,4 +1,4 @@
-package com.haruspring.sample.h2.service.model;
+package com.haruspring.sample.h2.repository.dao;
 
 import java.time.LocalDate;
 import lombok.Data;

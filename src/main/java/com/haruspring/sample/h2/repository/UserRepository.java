@@ -1,6 +1,6 @@
 package com.haruspring.sample.h2.repository;
 
-import com.haruspring.sample.h2.service.model.User;
+import com.haruspring.sample.h2.repository.dao.User;
 import java.util.List;
 import org.springframework.data.jdbc.repository.query.Query;
 import org.springframework.data.repository.CrudRepository;
